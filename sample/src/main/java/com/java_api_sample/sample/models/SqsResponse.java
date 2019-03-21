@@ -1,4 +1,4 @@
-package com.java_api_sample.sample;
+package com.java_api_sample.sample.models;
 
 public class SqsResponse {
     private final String jsonResponse;
